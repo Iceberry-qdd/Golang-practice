@@ -1,0 +1,4 @@
+mode: set
+day22/test/split.go:12.45,14.13 2 0
+day22/test/split.go:19.2,20.8 2 0
+day22/test/split.go:14.13,18.3 3 0
